@@ -1,7 +1,9 @@
 ## Prazer, eu sou a Anne Gabrielle :)
 
+Entusiasta do front-end constituído por interfaces modernas, acessíveis, amigáveis e bonitas.
+
 👩‍💻 Atuo hoje como Engenheira de Software Front-end <br/>
-📚 Estou sempre me aperfeiçoando enquanto desenvolvedora <br/>
+📚 Estou constantemente me aperfeiçoando enquanto desenvolvedora <br/>
 📫 Você pode entrar em contato comigo através do email: ann-nee.dev@outlook.com <br/>
 
 ## Linguagens e Bibliotecas
@@ -22,7 +24,9 @@
 
 ## Portfólio
 
-Possuo um portfólio hospedado na vercel que aborda brevemente a minha carreira, minhas habilidades e os projetos independentes e individuais feitos por mim. Você pode visualizá-lo clicando na imagem ou acessando o link abaixo.
+Possuo um portfólio hospedado na vercel que aborda brevemente a minha carreira, habilidades e projetos. Todos os projetos contidos nele foram pensados, desenhados, estruturados e codificados por mim.  Além desses, contribuí com múltiplos projetos desenvolvidos no setor privado. <br>
+
+Acesse meu portfólio através da imagem ou do link abaixo. 
 
 <a href="https://ann-nee-dev.vercel.app/" target="_blank">
   <img src="https://github.com/ann-nee/ann-nee/assets/108037039/270eb060-3068-49f9-bed8-934df4768d4c"/>
